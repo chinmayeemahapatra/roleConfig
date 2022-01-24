@@ -1,2 +1,2 @@
 # roleConfig
-To get and post test api
+To get and post test api.
