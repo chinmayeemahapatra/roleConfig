@@ -1,0 +1,14 @@
+[
+    {
+      "RoleId": 1,
+      "RoleName": "Financial Analyst",
+      "CreatedBy": "CreatedByUser",
+      "UpdatedBy": "UpdatedByuser"
+    },
+    {
+      "RoleId": 2,
+      "RoleName": "Financial Manager",
+      "CreatedBy": "CreatedByUser",
+      "UpdatedBy": "UpdatedByuser"
+    }
+  ]
